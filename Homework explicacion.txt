@@ -1,0 +1,15 @@
+VARIABLES:
+Las variables son un espacio donde almacenar informacion para usar mas tarde, algo asi como crear una "caja" donde
+podemos guardar cosas
+STRINGS:
+Las strings son un hilo de caracteres, pueden ser letras, palabras, numeros, cualquier cosa mientras esté encerrada
+entre ""
+FUNCIONES
+Las funciones son un conjunto de ordenes que un programador le asigna a determinada palabra para automatizar cierta
+parte del proceso, por ejemplo uno puede crear una funcion en la que se reciba un nombre y una edad y se use esa 
+informacion para dar un saludo previamente asignado a esa funcion
+DECLARACIONES
+Las declaraciones establecen como funciona algo para el interprete, por ejemplo 1 peso equivale a 1 caramelo
+pero no devuelve informacion necesariamente, a diferencia de las expresiones
+VALORES BOOLEANOS
+Los valores booleanos son 2, true y false y determinan si una declaracion es verdadera (true) o falsa (false)
